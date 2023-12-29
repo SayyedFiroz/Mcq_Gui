@@ -1,0 +1,38 @@
+{
+  "question": [
+                "Q1. Who is your God?",
+                "Q2. Who is your first imam?",
+                "Q3. What is the date of Eid-e Ghadeer  ?",
+                "Q4. Which of these is wajib?"
+  ],
+  "answer": [
+                1,
+                3,
+                3,
+                2
+  ],
+  "options":[
+    ["Allah",
+      "Jesus",
+      "Abraham",
+      "Isa"
+    ],
+    [
+      "Imam hassan",
+      "Imam hussein",
+      "Imam ali",
+      "Imam jaffer"
+    ],
+    ["18 Muharram",
+      "12 Rajab",
+      "18 Zilhajj",
+      "3 Ramzan"
+    ],
+    [
+      "Quran",
+      "Namaz",
+      "Sacrifice of Goat",
+      "Azadari"
+    ]
+  ]
+}
